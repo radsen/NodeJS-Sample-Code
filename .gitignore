@@ -1,0 +1,6 @@
+#Ignore these directories
+node_modules
+cache
+
+#ignore these files
+rdf-files.tar.bz2

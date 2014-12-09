@@ -1,0 +1,19 @@
+{
+  "name": "API-search",
+  "version": "0.0.1",
+  "description": "Webservices with mongoose, express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "N/A",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.10.1",
+    "morgan": "^1.4.1",
+    "mongoose": "^3.8.18",
+    "q": "^1.1.1",
+    "mongoose-auto-increment": "^3.0.8"
+  },
+  "author": "Andres Solano",
+  "license": "N/A"
+}
